@@ -1,3 +1,6 @@
 [submodule "555"]
 	path = 555
 	url = https://github.com/RedNoseRedRose/XinChuang-Practice-BreadBoard-555.git
+[submodule "0DiscreteComponents"]
+	path = 0DiscreteComponents
+	url = git@github.com:RedNoseRedRose/XinChuang-Practice-Breadboard-0DiscreteComponents.git
