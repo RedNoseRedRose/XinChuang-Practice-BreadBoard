@@ -6,4 +6,4 @@
 	url = git@github.com:RedNoseRedRose/XinChuang-Practice-Breadboard-0DiscreteComponents.git
 [submodule "40xx"]
 	path = 40xx
-	url = git@github.com:RedNoseRedRose/xinchuang-practice-course-BreadBoard-40xx.git
+	url = git@github.com:RedNoseRedRose/XinChuang-Practice-BreadBoard-40xx.git
